@@ -1,2 +1,2 @@
-# youtube-to-audio-file
-Turn any youtube link into audio file
+# youtube-to-podcast
+Turn any youtube link into podcast hosted on Github Pages
